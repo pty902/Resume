@@ -1,2 +1,1 @@
-# pty902
-Resume
+Portfolio for resume
